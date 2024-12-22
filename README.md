@@ -1,3 +1,4 @@
+  ![logo](https://github.com/saloni91jaiswal/saloni91jaiswal/blob/main/Black%20Trendy%20Gamer%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Saloni Jaiswal</h1>
 <h3 align="center">"Exploring Data Analytics | Python | SQL | Power BI | Lifelong Learner"</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif>
