@@ -2,14 +2,15 @@
 <h1 align="center">Hi 👋, I'm Saloni Jaiswal</h1>
 <h3 align="center">"Exploring Data Analytics | Python | SQL | Power BI | Lifelong Learner"</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif>
+<ul>
+<li>🌱 I’m currently learning **Data analytics**</li>
 
-- 🌱 I’m currently learning **Data analytics**
+<li> 💬 Ask me about **analytical technologies**</li>
 
-- 💬 Ask me about **analytical technologies**
+<li> 📫 How to reach me **salonijaiswal9131@gmail.com**</li>
 
-- 📫 How to reach me **salonijaiswal9131@gmail.com**
-
-- ⚡ Fun fact **19th-century analysts used maps; I use dashboards**
+<li>⚡ Fun fact **19th-century analysts used maps; I use dashboards**</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
